@@ -1,2 +1,2 @@
 # Recipie
-odin project file 
+an project of recipie website
